@@ -3,7 +3,9 @@ In this module, I have demonstrated my skills in Python - the language of choice
 
 ## 📑 Learning Outcome
 - Performed webscraping in Python to obtain data.
-- Extracted data by using a Python library.
+- Extracted data by using the yfinance library.
+- Webscraping using the BeautifulSoup library.
+- Dashboard creation
 
 ## 🏆 Certificates 
 To verify the certificates, click the images to follow the links.
