@@ -42,7 +42,10 @@ SELECT SUM(QUANTITY) FROM PETRESCUE
 WHERE DAY(RESCUEDATE) = 14;
 
 -- Displays the third day from each rescue
-SELECT RESCUEDATE + 3 FROM PETRESCUE;
+SELECT RESCUEDATE + 3 DAY FROM PETRESCUE;
 
 -- Displays the length of time the animals have been rescued; the difference between todays date and the rescue date
 SELECT (CURRENT DATE - RESCUEDATE) FROM PETRESCUE;
+
+-- Displays the ID and the target date for all animals within 1 year of their rescue
+SELECT RESCUEDATE + 1 YEAR FROM PETRESCUE;
