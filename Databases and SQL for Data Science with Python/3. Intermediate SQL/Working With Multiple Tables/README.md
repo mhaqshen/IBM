@@ -10,7 +10,7 @@ This section will only consider the first two methods.
 To explain sub-queries with multiple tables, the following tables will be used in some examples.
 
 <p align="center">
-  <img src="../Images/ExampleTables.png" width="600">
+  <img src="ExampleTables.png">
 </p>
 
 To retrieve only the employee records that correspond to departments in the `DEPARTMENTS` table:
