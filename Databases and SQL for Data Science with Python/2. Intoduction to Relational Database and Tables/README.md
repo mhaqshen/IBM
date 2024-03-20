@@ -8,11 +8,6 @@ Data is stored in tables. This provides logical data independence, physical data
 ### Entity-Relationship (ER) Model
 ER models are used as a tool to design relational databases. The building blocks of an ER diagram are **entities** and **attributes**.
 
-Entities are drawn as rectangles, and attributes as ovals, as shown below.  
-<p align="center">
-  <img src="Images/ER_Model.png" width="600">
-</p>
-
 A database can be thought of as a collection of entities, rather than being used as a model on its own. Entities are objects that independently of any other entities in the database (that have attributes).
 
 In the above example, each attribute is connected to exactly one entity (Book), so this will become a table in the database, and the attributes will be the columns. 
@@ -41,11 +36,6 @@ Used for creating tables and defining its columns:
       column3 datatype,
       ....
     );
-
-
-<p align="center">
-  <img src="Images/Create_Table.png" width="300">
-</p>
 
 #### `ALTER`
 Used for altering tables including adding and dropping columns and modifying their datatypes
