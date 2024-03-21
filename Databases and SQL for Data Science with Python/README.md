@@ -18,5 +18,5 @@ In this module, I have demonstrated my skills in Python - the language of choice
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href=" https://coursera.org/verif y/JMMSLMMQMDK2"><img src="https://github.com/mhaqshen/IBM-Data-Analytics/assets/142537775/a6ca1113-bb36-49bd-8eb0-6c4ac9402f22"></a>
+  <a href="https://coursera.org/verify/JMMSLMMQMDK2"><img src="https://github.com/mhaqshen/IBM-Data-Analytics/assets/142537775/a6ca1113-bb36-49bd-8eb0-6c4ac9402f22"></a>
 </p>
